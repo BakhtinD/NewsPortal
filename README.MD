@@ -102,6 +102,7 @@ NewsPortal1/
 │   │   └── bootstrap.min.css    # Bootstrap CSS
 │   └── js/                      # JavaScript
 │       └── bootstrap.min.js     # Bootstrap JS
+├── config.py                    # Конфигурация приложения
 ├── requirements.txt             # Зависимости Python
 ├── .env                         # Переменные окружения (не в репозитории)
 ├── README.md                    # Этот файл
